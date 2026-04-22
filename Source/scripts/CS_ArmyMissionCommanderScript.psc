@@ -1,3 +1,0 @@
-Scriptname CS_ArmyMissionCommanderScript extends ReferenceAlias  
-
-CS_RegimentScript Property RegimentScript Auto

@@ -1,3 +1,0 @@
-Scriptname CS_BattleSpaceMasterScript extends ObjectReference  
-
-ObjectReference Property FactionActivator Auto

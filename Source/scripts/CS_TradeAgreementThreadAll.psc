@@ -1,1 +1,0 @@
-Scriptname CS_TradeAgreementThreadAll extends ObjectReference  

@@ -1,1 +1,0 @@
-Scriptname CS_FactionWarAggressorScript extends CS_FactionWarFactionScript

@@ -1,1 +1,0 @@
-Scriptname CS_RegimentSpawnerThread01 extends CS_RegimentSpawnerThreadAll  

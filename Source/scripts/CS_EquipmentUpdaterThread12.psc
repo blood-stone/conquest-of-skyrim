@@ -1,1 +1,0 @@
-Scriptname CS_EquipmentUpdaterThread12 extends CS_EquipmentUpdaterThreadAll  

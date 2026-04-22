@@ -1,1 +1,0 @@
-Scriptname CS_ResourcesCityContainerScript extends ObjectReference  

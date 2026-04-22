@@ -1,3 +1,0 @@
-Scriptname CS_HoldRoutesBorderScript extends ObjectReference  
-
-FormList Property IntraholdRoutes Auto

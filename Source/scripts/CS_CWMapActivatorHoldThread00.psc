@@ -1,1 +1,0 @@
-Scriptname CS_CWMapActivatorHoldThread00 extends CS_CWMapActivatorHoldThreadAll  

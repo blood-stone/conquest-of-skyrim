@@ -1,1 +1,0 @@
-Scriptname CS_ChangeBannersThread03 extends CS_ChangeBannersThreadAll  

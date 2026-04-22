@@ -1,3 +1,0 @@
-Scriptname CS_CampManagementScript extends ObjectReference  
-
-ObjectReference Property FactionOwnerActivator Auto

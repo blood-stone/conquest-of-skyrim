@@ -1,1 +1,0 @@
-Scriptname CS_AttackCityDoorBreak extends ObjectReference  
