@@ -1,0 +1,1 @@
+Scriptname CS_SettlementManagementThread02 extends CS_SettlementManagementThreadAll  

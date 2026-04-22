@@ -1,0 +1,1 @@
+Scriptname CS_AttackCampFortCommander   extends ReferenceAlias

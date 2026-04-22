@@ -1,0 +1,1 @@
+Scriptname CS_TradeAgreementExportThread07 extends CS_TradeAgreementExportThreadAll  
