@@ -1,0 +1,1 @@
+Scriptname CS_MarkerFollowPlayer extends ObjectReference  

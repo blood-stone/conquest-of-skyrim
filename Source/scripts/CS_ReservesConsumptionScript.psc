@@ -1,0 +1,1 @@
+Scriptname CS_ReservesConsumptionScript extends ObjectReference  

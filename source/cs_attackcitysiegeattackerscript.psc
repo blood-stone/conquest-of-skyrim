@@ -1,1 +1,0 @@
-Scriptname CS_AttackCitySiegeAttackerScript extends ReferenceAlias  

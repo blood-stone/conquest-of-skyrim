@@ -1,0 +1,1 @@
+Scriptname CS_FormationElement1_CenterScript extends activemagiceffect  

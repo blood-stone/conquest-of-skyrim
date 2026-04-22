@@ -1,0 +1,1 @@
+Scriptname CS_HoldManagementMilitary extends ObjectReference  

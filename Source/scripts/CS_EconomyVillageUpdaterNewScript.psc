@@ -1,0 +1,15 @@
+Scriptname CS_EconomyVillageUpdaterNewScript extends Quest  
+
+int Property villagenum Auto
+
+int Property CoinReserve Auto
+
+FormList Property ResourceBuildingsFarmCells Auto
+FormList Property ResourceBuildingsFarmLocations Auto
+FormList Property ResourceBuildingsFarms Auto
+FormList Property ResourceBuildingsLumberMillCells Auto
+FormList Property ResourceBuildingsLumberMillLocations Auto
+FormList Property ResourceBuildingsLumberMills Auto
+FormList Property ResourceBuildingsMineCells Auto
+FormList Property ResourceBuildingsMineLocations Auto
+FormList Property ResourceBuildingsMines Auto

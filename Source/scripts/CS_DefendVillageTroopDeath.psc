@@ -1,0 +1,3 @@
+Scriptname CS_DefendVillageTroopDeath extends Quest  
+
+CS_DefendVillageWhiterunScript Property DefendVillageWhiterun Auto

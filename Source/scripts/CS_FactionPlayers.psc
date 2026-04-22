@@ -1,0 +1,1 @@
+Scriptname CS_FactionPlayers extends CS_FactionMajor  
